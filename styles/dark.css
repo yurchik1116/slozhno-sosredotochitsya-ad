@@ -15,11 +15,10 @@
 }
 
 .theme-dark .subtitle_title_decor, 
-.title_decor, h4
-{
+.title_decor, h4 {
   --text-color: rgba(0, 0, 40, 1);
 }
 
-.theme-dark h2, .header__theme-menu-button{
+.theme-dark h2, .header__theme-menu-button {
   --text-color: rgba(255, 0, 112, 1);
 }

@@ -13,10 +13,10 @@
   --background-image: url('../images/cover-image-light.png');
 }
 
-.theme-light .no_focus,.theme-light .focus{
+.theme-light .no_focus,.theme-light .focus {
   --focus-color: rgba(255, 194, 230, 1);
 }
 
-.theme-light .header__theme-menu-button{
+.theme-light .header__theme-menu-button {
   --text-color:rgba(53, 52, 48, 1);
 }
